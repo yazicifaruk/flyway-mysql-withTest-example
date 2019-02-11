@@ -1,0 +1,5 @@
+com\athens\h2app\service.class
+com\athens\h2app\HomeWork.class
+com\athens\h2app\repository\homeworkrepo.class
+com\athens\h2app\H2appApplication.class
+com\athens\h2app\Status.class
